@@ -1,0 +1,5 @@
+c:\my documents\visual studio 2017\Projects\Dz_Lesson_5(namespace)\Person\bin\Debug\Person.dll
+c:\my documents\visual studio 2017\Projects\Dz_Lesson_5(namespace)\Person\bin\Debug\Person.pdb
+c:\my documents\visual studio 2017\Projects\Dz_Lesson_5(namespace)\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2017\Projects\Dz_Lesson_5(namespace)\Person\obj\Debug\Person.dll
+c:\my documents\visual studio 2017\Projects\Dz_Lesson_5(namespace)\Person\obj\Debug\Person.pdb
